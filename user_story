@@ -10,17 +10,17 @@ USER STORIES
 9. Jako użytkownik chcę zmieniać dane swojego konta.
 10. Jako użytkownik chcę zgłosić błąd/problem/niezgodność w celu poprawy aplikacji.
 
-TASKS
-1. Rejestracja użytkownika
-2. Logowanie użytkownika
-3. Wpisywanie lokacji
-4. Wyszukiwanie najbliższych sklepów
-5. Wyświetlanie lokacji najbliższych sklepów
-6. Wyświetlanie podstawowych danych sklepu(godziny otwarcia, adres, nazwa itp.)
-7. Wyświetlanie oferty sklepu
-8. Wyświetlanie promocji w sklepie
-9. Pobieranie danych o lokalizacji użytkownika
-10. Wyznaczanie trasy do wybranego sklepu na podstawie lokalizaji użytkownika
-11. Aktualizacja oferty sklepu
-12. Aktualizacja danych konta
-13. Wysyłanie zgłoszeń do administracji
+FEATURES
+1. Rejestracja użytkownika 1
+2. Logowanie użytkownika 1
+3. Wpisywanie lokacji 5
+4. Wyszukiwanie najbliższych sklepów 20
+5. Wyświetlanie lokacji najbliższych sklepów 20
+6. Wyświetlanie podstawowych danych sklepu(godziny otwarcia, adres, nazwa itp.) 8
+7. Wyświetlanie oferty sklepu 8
+8. Wyświetlanie promocji w sklepie 8
+9. Pobieranie danych o lokalizacji użytkownika 20 
+10. Wyznaczanie trasy do wybranego sklepu na podstawie lokalizaji użytkownika 100
+11. Aktualizacja oferty sklepu 3
+12. Aktualizacja danych konta 3
+13. Wysyłanie zgłoszeń do administracji 3
