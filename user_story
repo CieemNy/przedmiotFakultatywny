@@ -1,0 +1,26 @@
+USER STORIES
+1. Jako nowy użytkownik chcę zarejestrować się do aplikacji.
+2. Jako użytkownik aplikacji chcę zalogować się do aplikacji, żeby korzystać z jej udogodnień.
+3. Jako użytkownik wpisuję adres, w celu wyszukania najbliższych sklepów.
+4. Jako użytkownik chcę sprawdzić ofertę wybranego sklepu, żeby zdecydować czy chcę tam jechać w ogóle.
+5. Jako użytkownik chcę wyświetlić godziny otwarcia sklepu
+6. Jako użytkownik chcę wyznaczyć trasę do wybranego sklepu, aby ułatwić sobię dotarcie do niego.
+7. Jako użytkownik chcę zapisać się do newslettera aby otrzymywać powiadomienia o promocjach
+8. Jako administrator chcę zmieniać ofertę sklepu
+9. Jako użytkownik chcę zmieniać dane swojego konta.
+10. Jako użytkownik chcę zgłosić błąd/problem/niezgodność w celu poprawy aplikacji.
+
+TASKS
+1. Rejestracja użytkownika
+2. Logowanie użytkownika
+3. Wpisywanie lokacji
+4. Wyszukiwanie najbliższych sklepów
+5. Wyświetlanie lokacji najbliższych sklepów
+6. Wyświetlanie podstawowych danych sklepu(godziny otwarcia, adres, nazwa itp.)
+7. Wyświetlanie oferty sklepu
+8. Wyświetlanie promocji w sklepie
+9. Pobieranie danych o lokalizacji użytkownika
+10. Wyznaczanie trasy do wybranego sklepu na podstawie lokalizaji użytkownika
+11. Aktualizacja oferty sklepu
+12. Aktualizacja danych konta
+13. Wysyłanie zgłoszeń do administracji
