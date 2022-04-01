@@ -1,0 +1,23 @@
+Definition of Done
+- Testy czytelności
+- Testy zgodności z założonymi założeniami
+- Testy oprogramowania
+- Sprawdzenie ortografii
+- Sprawdzenie bezpieczeństwa
+- Uwzględnienie wymagań wynikających z form prawnych
+- Przeprowadzenie testów na różnych urządzeniach
+
+Kryteria Akceptacji - Wysłanie zdjęcia na serwer
+- Pole do wysłania znajduje się na środku strony i jest poprawnie oznaczone, a mianowicie "Wyślij zdjęcie"
+- Po naciśnięciu pojawia się eksplorator plików lub można przeciągnać zdjecie w wymagane pole
+- Przesłanie odbywa się przez naciśniecie przycisku
+- Sprawdzenie wymagań:
+	- zdjęcie nie ma więcej niż 5mb
+	- zdjęcie jest w odpowiednim formacie np. .jpg, .png itd
+- Po sprawdzeniu pojawia się komunikat o poprawnym przesłaniu lub odmowie np:
+	- zdjęcie nie jest w odpowiednim formacie
+	- zdjęcie przekroczyło rozmiar 5mb
+- Po wysłaniu zdjęcia i przejściu walidacji pojawia sie opcja anulowania wysłania lub zatwierdzenia wysłania.
+- Po wybraniu danej opcji:
+	- anuluj -> zostanie wyświetlony komunikat o anulowaniu wysłania zdjęcia
+	- zatwierdź -> zostanie wyświetlony komunikat o zatwierdzeniu przesłania zdjęcia
