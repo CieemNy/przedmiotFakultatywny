@@ -1,0 +1,5 @@
+Przywrócenie backupu w Postgresql w środowisku pgAdmin 4:
+1. Utworzenie nowej bazy danych
+2. Prawym na nowo utworzoną bazę i opcja "Przywróć / Restore"
+3. W Polu "Nazwa Pliku / Filename" podanie ścieżki do utworzonego backupu.
+4. Voilà backup pomyślnie wykonany.
